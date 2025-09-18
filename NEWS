@@ -1,3 +1,7 @@
+* Version 1.4.1 (unreleased)
+- Send Message-Authenticator message unconditionally.
+
+
 * Version 1.4.0 (released 2024-06-08)
 - Bump the maximal length of the password to 128, as required by
   RFC 2865.
